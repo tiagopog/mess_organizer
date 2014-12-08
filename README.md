@@ -16,15 +16,15 @@ $ rake --rakefile mess_organizer/Rakefile
 
 1\. The "Downloads" folder before organizing it:
 
-![The messy "Downloads" folder](https://s3-us-west-2.amazonaws.com/mess-organizer/image_1.jpg)
+![The messy "Downloads" folder](https://s3-us-west-2.amazonaws.com/tiagopog/GitHub/mess_organizer/image_1.jpg)
 
 2\. Running the "rake" command. Note that it displays where each file/folder is being placed:
 
-![Rake in action](https://s3-us-west-2.amazonaws.com/mess-organizer/image_2.jpg)
+![Rake in action](https://s3-us-west-2.amazonaws.com/tiagopog/GitHub/mess_organizer/image_2.jpg)
 
 3\. Done! Now you have a brand new organized folder with your files under the "stuff":
 
-![Voilà! That's how you folder will look like now](https://s3-us-west-2.amazonaws.com/mess-organizer/image_3.jpg)
+![Voilà! That's how you folder will look like now](https://s3-us-west-2.amazonaws.com/tiagopog/GitHub/mess_organizer/image_3.jpg)
 
 ## Contributing
 
